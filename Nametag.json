@@ -11,22 +11,6 @@
     },
     {
       "userId": 0,
-      "rank": "LYNX ADMIN",
-      "color": [160, 0, 220],
-      "strokeColor": [120, 0, 200],
-      "hasOrbs": false,
-      "strokeThickness": 1.5
-    },
-    {
-      "userId": 0,
-      "rank": "LYNX MOD",
-      "color": [130, 0, 190],
-      "strokeColor": [90, 0, 160],
-      "hasOrbs": false,
-      "strokeThickness": 1.2
-    },
-    {
-      "userId": 0,
       "rank": "LYNX USER",
       "color": [110, 0, 180],
       "strokeColor": [60, 0, 100],
