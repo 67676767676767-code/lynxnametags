@@ -1,32 +1,37 @@
 {
-  "owners": {
-    "10432570797": {
-      "decal_id": "rbxassetid://138670656825161",
-      "custom_name": "nigger",
-      "color": "#C800FF",
-      "tag_color": "#3C0064",
-      "animation": "pulse",
-      "shimmer": true
+  "version": "1.0",
+  "tags": [
+    {
+      "userId": 10432570797,
+      "rank": "LYNX OWNER",
+      "color": [200, 0, 255],
+      "strokeColor": [180, 0, 255],
+      "hasOrbs": true,
+      "strokeThickness": 2
+    },
+    {
+      "userId": 0,
+      "rank": "LYNX ADMIN",
+      "color": [160, 0, 220],
+      "strokeColor": [120, 0, 200],
+      "hasOrbs": false,
+      "strokeThickness": 1.5
+    },
+    {
+      "userId": 0,
+      "rank": "LYNX MOD",
+      "color": [130, 0, 190],
+      "strokeColor": [90, 0, 160],
+      "hasOrbs": false,
+      "strokeThickness": 1.2
+    },
+    {
+      "userId": 0,
+      "rank": "LYNX USER",
+      "color": [110, 0, 180],
+      "strokeColor": [60, 0, 100],
+      "hasOrbs": false,
+      "strokeThickness": 1.2
     }
-  },
-  "admins": {
-    "000000004": {
-      "decal_id": "",
-      "custom_name": "LYNX ADMIN",
-      "color": "#FF3232",
-      "tag_color": "",
-      "animation": "glow",
-      "shimmer": false
-    }
-  },
-  "custom_tags": {
-    "000000009": {
-      "decal_id": "",
-      "custom_name": "Ghost",
-      "color": "#FFFFFF",
-      "tag_color": "",
-      "animation": "none",
-      "shimmer": false
-    }
-  }
+  ]
 }
