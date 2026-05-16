@@ -18,7 +18,7 @@
       "float_amplitude": 0.15,
       "float_speed": 2.5,
       "pulse_speed": 2.0,
-      "orbs_enabled": true,
+      "orbs_enabled": false,
       "orb_count": 5,
       "orb_color": [200, 100, 255]
     },
