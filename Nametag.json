@@ -1,6 +1,6 @@
 {
   "users": {
-    "10927326118": {
+    "12345678908": {
       "label": "OWNER",
       "username_prefix": "@",
       "background_color": [15, 5, 25],
@@ -22,19 +22,19 @@
       "orb_count": 5,
       "orb_color": [200, 100, 255]
     },
-    "987654321": {
-      "label": "LYNX USER",
+    "10927326118": {
+      "label": "LUCIF'S MOMMY",
       "username_prefix": "@",
-      "background_color": [5, 5, 15],
-      "border_color": [60, 0, 100],
+      "background_color": [173, 216, 230],
+      "border_color": [248, 185, 212],
       "border_thickness": 1.2,
-      "label_color": [110, 0, 180],
-      "username_color": [120, 100, 140],
+      "label_color": [248, 185, 212],
+      "username_color": [173, 216, 230],
       "label_font": "GothamBlack",
       "username_font": "GothamMedium",
       "label_size": 18,
       "username_size": 12,
-      "icon_id": "138670656825161",
+      "icon_id": "90313155251370",
       "billboard_size": [200, 60],
       "studs_offset_y": 3.5,
       "float_amplitude": 0.15,
