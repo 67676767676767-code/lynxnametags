@@ -28,7 +28,7 @@
       "background_color": [0, 0, 0],
       "border_color": [60, 0, 100],
       "border_thickness": 1.2,
-      "label_color": [110, 0, 180],
+      "label_color": [255, 255, 255],
       "username_color": [120, 100, 140],
       "label_font": "GothamBlack",
       "username_font": "GothamMedium",
