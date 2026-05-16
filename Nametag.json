@@ -19,7 +19,7 @@
       "float_speed": 2.5,
       "pulse_speed": 2.0,
       "orbs_enabled": false,
-      "orb_count": 5,
+      "orb_count": 0,
       "orb_color": [200, 100, 255]
     },
     "987654321": {
