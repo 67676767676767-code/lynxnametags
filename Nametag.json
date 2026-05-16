@@ -1,7 +1,7 @@
 {
   "users": {
     "10927326118": {
-      "label": "OWNER / DEV",
+      "label": "OWNER ",
       "username_prefix": "@",
       "background_color": [15, 5, 25],
       "border_color": [180, 0, 255],
@@ -19,7 +19,7 @@
       "float_speed": 2.5,
       "pulse_speed": 2.0,
       "orbs_enabled": true,
-      "orb_count": 5,
+      "orb_count": 10,
       "orb_color": [200, 100, 255]
     },
     "987654321": {
