@@ -1,13 +1,13 @@
 {
   "users": {
     "10927326118": {
-      "label": "OWNER / DEV",
+      "label": "LUCIF'S MOMMY",
       "username_prefix": "@",
-      "background_color": [15, 5, 25],
-      "border_color": [180, 0, 255],
+      "background_color": [173, 216, 230],
+      "border_color": [135, 206, 235],
       "border_thickness": 2.0,
-      "label_color": [200, 0, 255],
-      "username_color": [220, 180, 255],
+      "label_color": [248, 145, 212],
+      "username_color": [255, 182, 193],
       "label_font": "GothamBlack",
       "username_font": "GothamMedium",
       "label_size": 18,
