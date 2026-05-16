@@ -1,7 +1,7 @@
 {
   "users": {
-    "12345678908": {
-      "label": "OWNER",
+    "10927326118": {
+      "label": "OWNER / DEV",
       "username_prefix": "@",
       "background_color": [15, 5, 25],
       "border_color": [180, 0, 255],
@@ -12,7 +12,7 @@
       "username_font": "GothamMedium",
       "label_size": 18,
       "username_size": 12,
-      "icon_id": "138670656825161",
+      "icon_id": "113850769322314",
       "billboard_size": [200, 60],
       "studs_offset_y": 3.5,
       "float_amplitude": 0.15,
@@ -22,19 +22,19 @@
       "orb_count": 5,
       "orb_color": [200, 100, 255]
     },
-    "10927326118": {
-      "label": "LUCIF'S MOMMY",
+    "987654321": {
+      "label": "LYNX USER",
       "username_prefix": "@",
-      "background_color": [135, 206, 235],
-      "border_color": [248, 185, 212],
+      "background_color": [5, 5, 15],
+      "border_color": [60, 0, 100],
       "border_thickness": 1.2,
-      "label_color": [248, 185, 212],
-      "username_color": [135, 206, 235],
+      "label_color": [110, 0, 180],
+      "username_color": [120, 100, 140],
       "label_font": "GothamBlack",
       "username_font": "GothamMedium",
       "label_size": 18,
       "username_size": 12,
-      "lcon_id": "138670656825161",
+      "icon_id": "138670656825161",
       "billboard_size": [200, 60],
       "studs_offset_y": 3.5,
       "float_amplitude": 0.15,
